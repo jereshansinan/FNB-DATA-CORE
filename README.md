@@ -17,7 +17,7 @@ This repository tracks my journey through the CAPACITI X FNB Data Engineering pr
 - [x] **Week 1:** Intro to Analytics & SFIA Skill Mapping ✅
 - [x] **Week 2:** Data Collection (Python/Excel) & KPI Calculation ✅
 - [x] **Week 3:** Data Cleaning (Python) & Quality Checks ✅
-- [ ] **Week 4:** Database Design, SQL Basics & JDBC Connectivity ⏳ _[In Progress]_
+- [x] **Week 4:** Database Design, SQL Basics ✅
 
 ### Month 2: EDA & Visualization
 
