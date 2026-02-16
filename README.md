@@ -23,7 +23,7 @@ This repository tracks my journey through the CAPACITI X FNB Data Engineering pr
 
 - [x] **Week 5:** Exploratory Data Analysis (EDA) & Stats ✅
 - [x] **Week 6:** Data Visualization & Storytelling (Excel) ✅
-- [ ] **Week 7:** Power BI Dashboarding & DAX Basics
+- [ ] **Week 7:** Excel Interactivity ⏳ _[In Progress]_
 - [ ] **Week 8:** Java for Automated Reporting (PDF/HTML)
 
 ### Month 3: Advanced Engineering
