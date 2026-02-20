@@ -2,6 +2,14 @@
 
 ## Team: Data Drifters
 
+| Member Name        |
+| ------------------ |
+| `Jereshan Sinan`   |
+| `Kaylene Martins`  |
+| `Fikile Noyila`    |
+| `Lesedi Mphachake` |
+| `Thato Msina`      |
+
 Repository for the 16-week intensive Data Engineering curriculum focused on Java, Python, SQL, and Power BI.
 
 ---
@@ -23,8 +31,8 @@ This repository tracks my journey through the CAPACITI X FNB Data Engineering pr
 
 - [x] **Week 5:** Exploratory Data Analysis (EDA) & Stats ✅
 - [x] **Week 6:** Data Visualization & Storytelling (Excel) ✅
-- [ ] **Week 7:** Excel Interactivity ⏳ _[In Progress]_
-- [ ] **Week 8:** Java for Automated Reporting (PDF/HTML)
+- [x] **Week 7:** Excel Interactivity ✅
+- [ ] **Week 8:** Java for Automated Reporting (PDF/HTML) ⏳ _[In Progress]_
 
 ### Month 3: Advanced Engineering
 
