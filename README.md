@@ -36,7 +36,7 @@ This repository tracks my journey through the CAPACITI X FNB Data Engineering pr
 
 ### Month 3: Advanced Engineering
 
-- [ ] **Week 9:** Statistical Analysis & Hypothesis Testing ⏳ _[In Progress]_
+- [ ] **Week 9:** Python for Visualization & Reporting ⏳ _[In Progress]_
 - [ ] **Week 10:** Machine Learning Intro (Clustering/KMeans)
 - [ ] **Week 11:** Big Data Basics (PySpark & Hadoop)
 - [ ] **Week 12:** Data Governance & Ethics (POPIA/GDPR)
