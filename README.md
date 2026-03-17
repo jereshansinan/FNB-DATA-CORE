@@ -36,9 +36,9 @@ This repository tracks my journey through the CAPACITI X FNB Data Engineering pr
 
 ### Month 3: Advanced Engineering
 
-- [x] **Week 9:** Python for Visualization & Reporting 
-- [ ] **Week 10:** Segmentation & Grouping in Power BI ⏳ _[In Progress]_
-- [ ] **Week 11:** Big Data Basics (PySpark & Hadoop)
+- [x] **Week 9:** Python for Visualization & Reporting ✅
+- [x] **Week 10:** Segmentation & Grouping in Power BI ✅
+- [ ] **Week 11:** Big Data Basics (PySpark & Hadoop)⏳ _[In Progress]_
 - [ ] **Week 12:** Data Governance & Ethics (POPIA/GDPR)
 
 ### Month 4: Applied Analytics & Capstone
