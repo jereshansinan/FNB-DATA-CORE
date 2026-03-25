@@ -43,7 +43,7 @@ This repository tracks my journey through the CAPACITI X FNB Data Engineering pr
 
 ### Month 4: Applied Analytics & Capstone
 
-- [ ] **Week 13:** Business Intelligence
+- [x] **Week 13:** Business Intelligence ✅
 - [ ] **Week 14:** Advanced Python Analytics & Model Evaluation
 - [ ] **Week 15:** End-to-End Analytics Pipeline Integration
 - [ ] **Week 16:** Final Capstone Project & Portfolio Presentation
